@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/ComponentButton.qml</file>
+        <file>qml/components/ComponentColumn.qml</file>
+        <file>qml/components/ComponentInput.qml</file>
+        <file>qml/components/ComponentLabel.qml</file>
+        <file>qml/components/ComponentRow.qml</file>
+        <file>qml/components/ComponentImage.qml</file>
+        <file>qml/components/ComponentFlow.qml</file>
+        <file>qml/components/ComponentLine.qml</file>
+        <file>qml/components/ComponentList.qml</file>
+        <file>qml/components/ComponentStackView.qml</file>
+        <file>qml/components/ComponentItem.qml</file>
+        <file>qml/components/ComponentHeader.qml</file>
+        <file>qml/components/ComponentPopup.qml</file>
+        <file>qml/components/ComponentTimer.qml</file>
+        <file>qml/components/ComponentBluetooth.qml</file>
+        <file>qml/components/ComponentPopupEditText.qml</file>
+        <file>qml/components/ComponentList2.qml</file>
+        <file>qml/components/ComponentClock.qml</file>
+        <file>qml/components/ComponentSpinner.qml</file>
+        <file>qml/components/ComponentPopupEditTime.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>js/main.js</file>
+        <file>js/engine.js</file>
+        <file>js/processes/timers/timers.js</file>
+        <file>js/localStorage.js</file>
+    </qresource>
+</RCC>

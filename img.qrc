@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/back.png</file>
+        <file>img/settings.png</file>
+        <file>img/clear.png</file>
+        <file>img/menu.png</file>
+        <file>img/logo.png</file>
+        <file>img/bgMenu.png</file>
+        <file>img/delete.png</file>
+        <file>img/edit.png</file>
+        <file>img/second.png</file>
+        <file>img/minute.png</file>
+        <file>img/hour.png</file>
+        <file>img/clock.png</file>
+        <file>img/clock-night.png</file>
+        <file>img/center.png</file>
+        <file>img/muted.png</file>
+        <file>img/doesntMuted.png</file>
+        <file>img/unmuted.png</file>
+        <file>img/bluetooth.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/stop.wav</file>
+        <file>sound/go.wav</file>
+        <file>sound/stopX2.wav</file>
+        <file>sound/goX2.wav</file>
+    </qresource>
+</RCC>
